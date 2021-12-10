@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464083893081",
+    "project_id": "jcgsurveyor-412b1",
+    "storage_bucket": "jcgsurveyor-412b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464083893081:android:55f0c89ae298af29d6aa48",
+        "android_client_info": {
+          "package_name": "com.example.coin_shot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464083893081-2qaf6n5a4668ig0essr2ot70ea95tglc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7-aFYcCZ3JVv535A8wft2YUmkqpNdWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464083893081-2qaf6n5a4668ig0essr2ot70ea95tglc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
